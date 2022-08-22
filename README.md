@@ -13,9 +13,6 @@ Enter information for members of a team (manager, engineers, and interns) and it
 ## Installation
 node-modules folder is not included. please install using "npm i"
 
-## Screenshot
-![image](https://user-images.githubusercontent.com/64660713/172066195-c9f3093d-115b-4374-ae7c-19aa30256ed1.png)
+## contribution:
 
-
-## video
-https://drive.google.com/file/d/1U1frjqs9dMgWJSV1FXAAJrY44GipxAmE/view
+Study Group: Aaron, Susan , Sarah, Chris P., Jackson, Ricky 
